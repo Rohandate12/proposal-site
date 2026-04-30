@@ -1,0 +1,6 @@
+cd ~/Desktop/proposal-site
+git init
+git add .
+git commit -m "Initial proposal site"
+git remote add origin https://github.com/YOUR_USERNAME/proposal-site.git
+git push -u origin main
